@@ -1,0 +1,16 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "razorvision",
+  "description": "RazorVision plugins for Claude Code",
+  "owner": {
+    "name": "RazorVision",
+    "url": "https://github.com/razorvision"
+  },
+  "plugins": [
+    {
+      "name": "clara",
+      "source": "./",
+      "description": "RazorVision's open skills and review agents, with the Clara Studio MCP server"
+    }
+  ]
+}

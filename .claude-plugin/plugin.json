@@ -1,0 +1,17 @@
+{
+  "name": "clara",
+  "version": "0.1.0",
+  "description": "RazorVision's open skills and review agents, with the Clara Studio MCP server",
+  "author": {
+    "name": "RazorVision"
+  },
+  "homepage": "https://clarastudio.ai",
+  "repository": "https://github.com/razorvision/clara-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "clara",
+    "skills",
+    "code-review",
+    "agent-skills"
+  ]
+}
