@@ -3,6 +3,12 @@ name: release-please
 on:
   push:
     branches: [main]
+  # Manual re-run for when a push event is lost and a merged release PR is left pending.
+  workflow_dispatch:
+
+concurrency:
+  group: release-please
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -11,6 +17,7 @@ permissions:
 
 jobs:
   release-please:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
       - uses: googleapis/release-please-action@45996ed1f6d02564a971a2fa1b5860e934307cf7 # v5.0.0
