@@ -1,0 +1,13 @@
+interface:
+  display_name: "Clara skills overview"
+  short_description: "Find the right skill and connect Clara Studio"
+  default_prompt: "Use $clara-overview to pick the right skill for this task."
+policy:
+  allow_implicit_invocation: true
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "clara"
+      description: "Clara Studio MCP server (optional; the skill works without it)"
+      transport: "streamable_http"
+      url: "https://mcp.clarastudio.ai/mcp/v3"
