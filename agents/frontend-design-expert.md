@@ -1,7 +1,7 @@
 ---
 name: frontend-design-expert
 description: Frontend/UX design consultant for the design council. Use when shaping a feature or change that touches UI, components, layout, or interaction. Read-only; advises, never edits.
-tools: Read, Grep, Glob, WebSearch, WebFetch
+tools: Read, Grep, Glob, WebSearch, WebFetch, ToolSearch, mcp__plugin_clara_clara__fetch, mcp__plugin_clara_clara__query, mcp__plugin_clara_clara__search, mcp__clara__fetch, mcp__clara__query, mcp__clara__search
 color: purple
 ---
 

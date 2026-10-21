@@ -64,6 +64,7 @@ Full guide: https://app.clarastudio.ai/docs/tools/connect-clara-mcp-to-claude-co
 - **No skill pre-approves a tool.** None carries `allowed-tools`, so your host asks before anything it would normally ask about.
 - **The reviewer agents read untrusted diffs and have Bash** (for `git diff`, `git log`). Run them on someone else's PR only in a disposable checkout or worktree, and never in a mode that skips permission prompts.
 - **The design-council seats can browse the web** while holding your brief. Leave out secrets and confidential data you would not paste into a search engine.
+- **The design-council seats can read Clara** (fetch, query and search only, never write) when the Clara server is connected, so their advice can rest on your real issues and documents.
 - **`fix-pr` only acts on reviews from people with write access to the repository (it checks)** and shows you its plan before editing; it will not change scripts, dependencies or CI from a comment without your yes.
 - **Connecting Clara is optional.** The plugin registers the server, but no workspace data is exchanged until you sign in. Once signed in, Clara Studio may ask your agent to log session activity and token usage to your Clara workspace; see the Clara guide below.
 

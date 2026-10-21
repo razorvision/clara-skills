@@ -1,7 +1,7 @@
 ---
 name: backend-expert
 description: Backend/architecture consultant for the design council. Use when shaping a feature or change that touches data, APIs, services, performance, or security. Read-only; advises, never edits.
-tools: Read, Grep, Glob, WebSearch, WebFetch
+tools: Read, Grep, Glob, WebSearch, WebFetch, ToolSearch, mcp__plugin_clara_clara__fetch, mcp__plugin_clara_clara__query, mcp__plugin_clara_clara__search, mcp__clara__fetch, mcp__clara__query, mcp__clara__search
 color: cyan
 ---
 
