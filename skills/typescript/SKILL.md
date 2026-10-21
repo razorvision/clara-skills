@@ -3,7 +3,7 @@ name: typescript
 description: Guides TypeScript best practices for strict-mode projects, covering discriminated unions, interface contracts, nullability, type guards, utility types, async return types, const assertions, and a review checklist of common anti-patterns. Use when writing, reviewing, or debugging TypeScript code or type definitions.
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

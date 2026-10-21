@@ -4,7 +4,7 @@ description: Runs safe, read-only SQL queries against a PostgreSQL database to e
 license: Apache-2.0
 compatibility: Requires a PostgreSQL connection string and either the psql CLI or a Node.js Postgres driver.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

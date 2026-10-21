@@ -3,7 +3,7 @@ name: prompt-engineering
 description: Audits and optimizes AI prompts, system instructions, few-shot examples, and tool definitions for clarity, specificity, and token efficiency, then presents the improved prompt with the reasoning behind each change. Use when designing or refining a system prompt, when model responses are off-target, verbose, or inconsistent, or when a tool is not being called correctly.
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

@@ -1,6 +1,6 @@
 {
   "name": "clara",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RazorVision's open skills and review agents, with the Clara Studio MCP server",
   "mcpServers": {
     "clara": {

@@ -3,7 +3,7 @@ name: performance
 description: Guides performance optimization for Next.js App Router applications, covering Server versus Client component decisions, data fetching, Server Actions, image optimization, dynamic imports, Suspense streaming, parallel fetching, and memoization, with a review checklist and anti-patterns. Use when optimizing a Next.js App Router app, deciding whether a component needs "use client", or reviewing Next.js code for performance.
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

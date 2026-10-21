@@ -4,7 +4,7 @@ description: Convenes a three-consultant design council (product, frontend desig
 license: Apache-2.0
 compatibility: Requires a host that can spawn subagents (for example the Claude Code Agent tool) and the product-expert, frontend-design-expert and backend-expert agents. The Claude Code plugin installs them; a skills-only install does not.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

@@ -4,7 +4,7 @@ description: Runs a multi-step research workflow that breaks a topic into focuse
 license: Apache-2.0
 compatibility: Requires web search and web fetch tools. Uses a Context7 MCP server and a GitHub MCP server when available.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

@@ -4,7 +4,7 @@ description: Generates a polished, user-facing changelog from git commits, group
 license: Apache-2.0
 compatibility: Requires git and a local checkout of the repository.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 
