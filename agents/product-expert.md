@@ -1,7 +1,7 @@
 ---
 name: product-expert
 description: Product consultant for the design council. Use when shaping a feature or change to pressure-test user value, scope, and whether the approach solves the real problem. Read-only; advises, never edits.
-tools: Read, Grep, Glob, WebSearch, WebFetch
+tools: Read, Grep, Glob, WebSearch, WebFetch, ToolSearch, mcp__plugin_clara_clara__fetch, mcp__plugin_clara_clara__query, mcp__plugin_clara_clara__search, mcp__clara__fetch, mcp__clara__query, mcp__clara__search
 color: green
 ---
 
