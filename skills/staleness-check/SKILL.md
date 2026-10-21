@@ -3,7 +3,7 @@ name: staleness-check
 description: Sweeps the repo and related sources for artifacts that a just-completed body of work should have updated but did not, such as stale doc indexes, READMEs, ADRs, registries, agent instruction files, agent memory files, issue status, and cross-references, then reports each stale item with a proposed fix. Use at the end of an epic, feature, or executed plan, or when the user says "staleness check", "did we miss anything", "are we done", or "anything stale".
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

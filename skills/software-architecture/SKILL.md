@@ -3,7 +3,7 @@ name: software-architecture
 description: Guides architectural decisions using Clean Architecture, separation of concerns, and SOLID principles, covering where new code should live, how modules depend on each other, and which anti-patterns to avoid, with a review checklist. Use when designing a new module or feature structure, refactoring code organization, deciding where code belongs, or reviewing a codebase's architecture.
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

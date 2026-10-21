@@ -4,7 +4,7 @@ description: Reviews and guides the design and styling of plain HTML/CSS website
 license: Apache-2.0
 compatibility: Works best with a Playwright MCP server for multi-viewport screenshots.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

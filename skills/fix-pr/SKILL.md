@@ -4,7 +4,7 @@ description: Addresses pull request review feedback by pulling the latest review
 license: Apache-2.0
 compatibility: Requires the GitHub CLI (gh) authenticated to the repository.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

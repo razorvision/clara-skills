@@ -3,7 +3,7 @@ name: testing
 description: Guides writing, reviewing, and debugging Vitest tests for JavaScript and TypeScript projects, covering test structure, async handling, mocking, error cases, setup and teardown, and a review checklist of common anti-patterns. Use when writing new tests, reviewing a test file, or debugging a failing or flaky Vitest suite. Not for Python test suites.
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

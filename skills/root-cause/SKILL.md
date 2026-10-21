@@ -3,7 +3,7 @@ name: root-cause
 description: Traces a bug backward through the call chain to the original trigger instead of patching where the error surfaces, then fixes it at the source and adds defensive validation at intermediate layers. Use when debugging an error, a failing test, or unexpected behavior where the symptom appears far from its cause.
 license: Apache-2.0
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

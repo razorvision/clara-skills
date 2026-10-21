@@ -4,7 +4,7 @@ description: Brainstorms and evaluates domain names for a product or project thr
 license: Apache-2.0
 compatibility: Requires outbound network access to query the Verisign RDAP API (via curl or PowerShell) and a web search tool for competitive research.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
 ---
 

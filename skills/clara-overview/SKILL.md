@@ -4,7 +4,7 @@ description: Lists every skill and agent in the RazorVision clara-skills set, sa
 license: Apache-2.0
 compatibility: Works without Clara Studio. The Clara section needs the Clara MCP server at https://mcp.clarastudio.ai/mcp/v3, which the Claude Code plugin registers on install.
 metadata:
-  version: "0.1.0" # x-release-please-version
+  version: "0.1.1" # x-release-please-version
   owner: razorvision
   clara/display-name: Clara skills overview
 ---
